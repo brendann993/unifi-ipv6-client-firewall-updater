@@ -1,0 +1,17 @@
+# Go
+*.exe
+*.out
+*.test
+
+# Editor
+.vscode/
+.idea/
+
+# Local clients.json
+clients.json
+
+# Environment variables file
+.env
+
+# Ignore generated credentials from google-github-actions/auth
+gha-creds-*.json
